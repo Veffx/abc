@@ -1,7 +1,7 @@
 # ABC Browser Circus
 
-Hi, I am ....
+Hi, I am Yufei Luo
 
 Find my project below:
-- ...
+- [multi-touch]
 - ...
